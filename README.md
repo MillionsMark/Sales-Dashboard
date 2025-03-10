@@ -1,12 +1,12 @@
 # Mimark Sales-Dashboard
 
 ## Introduction:
-![]()
+![](Mimark_introduction_image.jpg)
 This is a power Bi project on sales analysis of an imaginary store called **“Mimark Stores”**. The
 project is to analyze and derive insights to answer crucial questions and help the store make
 data driven decisions.
 
-**_Disclaimer-**: _All datasets and reports do not represent any company.institution or country, but
+**_Disclaimer_**: _All datasets and reports do not represent any company.institution or country, but
 just a dummy dataset to demonstrate capabilities of Power BI_
 
 ## Skills/ concepts demonstrated:
