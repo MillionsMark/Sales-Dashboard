@@ -1,6 +1,7 @@
 # Mimark Sales-Dashboard
 
 ## Introduction:
+![]()
 This is a power Bi project on sales analysis of an imaginary store called **“Mimark Stores”**. The
 project is to analyze and derive insights to answer crucial questions and help the store make
 data driven decisions.
